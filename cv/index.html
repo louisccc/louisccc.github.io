@@ -4,6 +4,10 @@ title: CV of Your Name
 ---
 
 	<div class="cv">
+		{% assign image_files = site.static_files | where: "image", true %}
+		{% for myimage in image_files %}
+  			{{ myimage.path }}
+		{% endfor %}
 		<a href="#" class="download" title="Download CV as PDF">Download CV</a>			
 					<h1>Hank Quinlan</h1>
 					<address>
