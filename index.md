@@ -8,4 +8,4 @@ layout: page
 Hi! This is my personal website, everything is still under construction. 
 The content here might be changing anytime in the future.
 
-![image-title-here]({{ site.url }}/assets/img/index_photo.jpg)
+![image-title-here]({{ site.url }}/assets/img/index.jpg)
