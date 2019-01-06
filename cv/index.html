@@ -1,0 +1,31 @@
+---
+layout: default
+title: CV
+---
+
+	<div class="cv">
+		<h1>Shih-Yuan Yu (Louis) 余士元</h1>
+		<a href="#" class="download" title="Download CV as PDF">Completed CV</a><br>
+		{% assign image_files = site.static_files | where: "image", true %}
+		{% for myimage in image_files %}
+  			<img src="{{myimage.path}}" style="width:200px"/>
+		{% endfor %}
+		<br>
+		<!-- <a href="#" class="download" title="Download CV as PDF">Completed CV</a>			 -->
+		<address>
+			<strong>EECS in the University of California, Irvine</strong><br>
+			2200 Engineering Hall<br>
+			Irvine, CA 92697<br>
+			<abbr title="phone">P:</abbr> (949) 294-9284<br>
+			<span class="obfuscate">shihyuay@uci.edu</span>
+		</address>
+
+		<h2>Select Publications</h2>
+
+		<p><strong>Last Name, F.</strong> (204). Title of a Chapter You Wrote for a Book. In I.M Editor (Ed.), <em>The Book I Contributed To</em> (pp. 97-108). City, ST: Publisher Name. Chapter available at: <a href="#">http://permalink</a>.
+
+
+	</div>
+
+	<h2>My FootPrints</h2>
+	<iframe src="https://www.google.com/maps/d/embed?mid=138UKJBzFlU-MIrZIST4goHqqP6I" width="640" height="480"></iframe>
