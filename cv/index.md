@@ -4,12 +4,12 @@ title: CV
 ---
 
 <img src="{{ site.url }}/assets/img/profile.jpg" style="width:200px"/><br>
-The Completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.pdf" class="download" title="Download CV as PDF">here</a>.
+The completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.pdf" class="download" title="Download CV as PDF">here</a>.
 <br><br>
 
 ----
 <br>
-## Education
+## **Education**
 
 - **2018 Sep.-Present**
 	+ Phd in Electrical Engineering and Computer Engineering, the University of California, Irvine
@@ -24,7 +24,7 @@ The Completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.p
 
 ----
 <br>
-## Work Experience
+## **Work Experience**
 
 - **2014 Nov.-2018 Sep.**
 	+ Software Engineer in MediaTek, HsinChu, Taiwan.
@@ -33,7 +33,7 @@ The Completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.p
 
 ----
 <br>
-## Select Publications
+## **Select Publications**
 
 ### Journal Papers:
 1. Huang, Z., Lin, K. J., **Yu, S. Y.**, & Hsu, J. Y. J. (2014). Co-locating services in IoT systems to
@@ -42,8 +42,6 @@ minimize the communication energy cost. Journal of Innovation in Digital Ecosyst
 
 ### Conference Papers:
 
-<!-- <p><strong>Last Name, F.</strong> (204). Title of a Chapter You Wrote for a Book. In I.M Editor (Ed.), <em>The Book I Contributed To</em> (pp. 97-108). City, ST: Publisher Name. Chapter available at: <a href="#">http://permalink</a>.
- -->
 1. Selker, T., **Yu, S. Y.**, Liang, C. W., & Hsu, J. (2015). SweetBuildingGreeter: A Demonstration of Persuasive Technology for Public Space. In International Conference on Universal Access in
 Human-Computer Interaction (pp. 475-486). Springer, Cham.
 
@@ -55,8 +53,10 @@ Human-Computer Interaction (pp. 475-486). Springer, Cham.
 
 5. Huang, Y. C., Tsai, B. L., Wang, C. I., **Yu, S. Y.**, Liang, C. W., Hsu, J. Y. J., & Selker, T. (2013). Leveraging Persuasive Feedback Mechanism for Problem Solving. In AAAI Spring Symposium: Shikakeology.
 
+<br>
 
-
-<h2>Footprint</h2>
+----
+<br>
+## **Footprint**
 <iframe src="https://www.google.com/maps/d/embed?mid=138UKJBzFlU-MIrZIST4goHqqP6I" width="640" height="480"></iframe>
 <br>
