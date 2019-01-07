@@ -16,8 +16,7 @@
 title: Shih-Yuan Yu (Louis)
 email: shihyuay@uci.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a first year PhD student in the University of California, Irvine. My research interests are data-driven 
-  cyber-physical system modelling, IoT systems, Artificial Intelligence. 
+  a first year PhD student in Advanced Integrated CPS lab, the University of California, Irvine. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
