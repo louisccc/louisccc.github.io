@@ -14,7 +14,7 @@ The completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.p
 - **2018 Sep.-Present**
 	+ Phd in Electrical Engineering and Computer Engineering, the University of California, Irvine
 	<br><br>
-- **2012 Sep.-2014 Jun**
+- **2012 Sep.-2014 Jun.**
 	+ MSc in Computer Science and Information Engineering, National Taiwan University
 	<br><br>
 - **2008 Sep.-2012 Jun.**
