@@ -21,7 +21,6 @@ The completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.p
 	+ BSc in Computer Science and Information Engineering, National Taiwan University
 	<br><br>
 
-
 ----
 <br>
 ## **Work Experience**
