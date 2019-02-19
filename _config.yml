@@ -16,7 +16,7 @@
 title: Shih-Yuan Yu (Louis)
 email: shihyuay@uci.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  a first year PhD student in AICPS lab, the University of California, Irvine. 
+  a first year PhD student in AICPS lab, EECS in the University of California, Irvine. Irvine 2200 Engineering Hall, Irvine, CA 92697
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
