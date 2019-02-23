@@ -16,7 +16,7 @@
 title: Shih-Yuan Yu (Louis)
 email: shihyuay@uci.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  a first year PhD student in AICPS lab, EECS in the University of California, Irvine. Irvine 2200 Engineering Hall, Irvine, CA 92697
+  Ph.D. student in AICPS lab, EECS in the University of California, Irvine. Irvine 2200 Engineering Hall, Irvine, CA 92697
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -34,7 +34,7 @@ defaults:
     values:
       image: true
 disqus:
-  shortname: my_disqus_shortname
+  shortname: louis_yu
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

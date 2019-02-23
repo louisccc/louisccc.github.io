@@ -5,36 +5,23 @@
 layout: page
 ---
 
-Well goes an old saying, though I don't know where it comes from, 
-
 > Life is short, so eat cookies.
 
-<div style="text-align: justify"> 
-Sometimes, the daily hassles might overwhelm us, grabbing a piece of cookies can help keeping your mind refreshing :). Regarding me, I am now a Ph.D student in the University of California, Irvine (UCI). Before coming to united state, I spent four years working as an software engineer in world-renowned company, MediaTek. 
+Well goes the old saying, sometimes, the daily hassles might overwhelm us, grabbing a piece of cookies can refresh your mind :).
+
+<img src="{{ site.url }}/assets/img/profile.jpg" style="width:200px"/><br>
+
+<div style="text-align: justify">My research interest is in Design Automation of Embedded Systems, especially the automation with data-driven system modeling approaches. It covers incorporating ML/AI methods to identify potential security issues in systems. For example, side-channel attack detection on additive manufacturing and hardware trojan detection in FPGAs are the ongoing projects in my lab, UCI AICPS Lab.
 </div>
 
-
-![image-title-here]({{ site.url }}/assets/img/index.jpg){:width="50%"}
-
-----
-
 <br>
-#### **On-going Projects:**
-- Module of Deep Code Curator: code2graph and graph2code
 
-- Side channel cyber physical attack detection on additive manufacturing
+
+##### **Research Project: module of Deep Code Curator: code2graph and graph2code**
+
+##### **Research Project: Side-channel Attack Detection on Additive Manufacturing**
 
 <br>
 
-----
 
-<br>
-#### **My current research interests:**
-- Data-driven Cyber-physical System Modeling
-- Embedded System Designs
-- Artificial Intelligence
-<br>
-
-----
-
-<br>
+Please refer to my [CV page]({{ site.url }}/cv). 
