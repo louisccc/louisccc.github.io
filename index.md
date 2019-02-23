@@ -4,13 +4,13 @@
 
 layout: page
 ---
-<img src="{{ site.url }}/assets/img/profile.jpg" style="width:200px"/><br>
-
-> Life is short, so eat cookies.
-
-Whenever feeling bad, just grab cookies. 
+<center> <img src="{{ site.url }}/assets/img/profile.jpg" style="width:200px"/></center>
+<center> Life is short, so eat cookies.</center>
+<center>Whenever feeling bad, just grab cookies. </center>
+<br>
 
 ----
+
 <br>
 <div style="text-align: justify"> My current research interest is in Design Automation of Embedded Systems, especially the automation with data-driven system modeling approaches. It covers incorporating ML/AI methods to identify potential security issues in systems. For example, side-channel attack detection on additive manufacturing and hardware trojan detection in FPGAs are the ongoing projects in my lab, UCI AICPS Lab. </div>
 <br>

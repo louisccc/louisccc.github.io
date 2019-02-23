@@ -1,11 +1,11 @@
 ---
 layout: default
 title: CV
+
 ---
 
-<img src="{{ site.url }}/assets/img/profile.jpg" style="width:200px"/><br>
 The completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.pdf" class="download" title="Download CV as PDF">here</a>.
-<br><br>
+<br>
 
 ----
 <br>
