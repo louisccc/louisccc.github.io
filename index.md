@@ -6,7 +6,7 @@ layout: page
 ---
 <center> <img src="{{ site.url }}/assets/img/profile.jpg" style="width:200px"/></center>
 <center> Life is short, so eat cookies.</center>
-<center>Whenever feeling bad, just grab cookies. </center>
+<center>Whenever feeling bad, <br>you can grab cookies. </center>
 <br>
 
 ----
@@ -14,11 +14,13 @@ layout: page
 <br>
 <div style="text-align: justify"> My current research interest is in Design Automation of Embedded Systems, especially the automation with data-driven system modeling approaches. It covers incorporating ML/AI methods to identify potential security issues in systems. For example, side-channel attack detection on additive manufacturing and hardware trojan detection in FPGAs are the ongoing projects in my lab, UCI AICPS Lab. </div>
 <br>
+Please refer to my [lab site](http://aicps.eng.uci.edu/) for more interesting projects.<br>
+<br>
+##### **Open-Source Project: [Pykg2vec](https://pypi.org/project/pykg2vec/): Python Library for Knowledge Graph Embedding Methods**
+##### **Research Project: Modules of Deep Code Curator ([DCC](https://github.com/deepcurator/DCC)): code2graph and graph2code**
+##### **Research Project: Kinetic Cyber Attack Detection Scheme for Cyber-Physical Additive Manufacturing Systems**
 
-##### **Research Project: module of Deep Code Curator (DCC): code2graph and graph2code**
-##### **Research Project: Side-channel Attack Detection on Additive Manufacturing**
 
-Please refer to my [lab site](http://aicps.eng.uci.edu/) for more interesting projects, and my [CV]({{ site.url }}/cv).<br>
 
 ----
 <br>
