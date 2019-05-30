@@ -20,14 +20,14 @@ The completed CV is <a href="{{ site.url }}/assets/pdf/Shih-Yuan-Resume-School.p
 
 ----
 <br>
-### **Select Publications**
+## **Publications**
 
-### Journal Papers:
+### **Journal Papers:**
 1. Huang, Z., Lin, K. J., **Yu, S. Y.**, & Hsu, J. Y. J. (2014). Co-locating services in IoT systems to
 minimize the communication energy cost. Journal of Innovation in Digital Ecosystems, 1(1),
 47-57.
 
-### Conference Papers:
+### **Conference Papers:**
 
 1. Selker, T., **Yu, S. Y.**, Liang, C. W., & Hsu, J. (2015). SweetBuildingGreeter: A Demonstration of Persuasive Technology for Public Space. In International Conference on Universal Access in
 Human-Computer Interaction (pp. 475-486). Springer, Cham.
@@ -35,6 +35,9 @@ Human-Computer Interaction (pp. 475-486). Springer, Cham.
 3. **Yu, S. Y.**, Shih, C. S., Hsu, J. Y. J., Huang, Z., & Lin, K. J. (2014). QoS oriented sensor selection in iot system. In Internet of Things (iThings), 2014 IEEE International Conference, and Green Computing and Communications (GreenCom), IEEE and Cyber, Physical and Social Computing (CPSCom), IEEE (pp.201-206). IEEE.
 4. Huang, Y. C., Wang, C. I., **Yu, S. Y.**, & Hsu, Y. J. (2013). In-HIT Example-Guided Annotation Aid for Crowdsourcing UI Components. In First AAAI Conference on Human Computation and Crowdsourcing.
 5. Huang, Y. C., Tsai, B. L., Wang, C. I., **Yu, S. Y.**, Liang, C. W., Hsu, J. Y. J., & Selker, T. (2013). Leveraging Persuasive Feedback Mechanism for Problem Solving. In AAAI Spring Symposium: Shikakeology.
+
+### **Techical Reports:**
+1. Shih-Yuan Yu, Ahmet Salih Aksakal, Sujit Rokka Chhetri, Mohammad Abdullah Al Faruque, “Deep Code Curator – Technical Report on Code2Graph”, CECS TR 19-01, posted on May 22, 2019
 
 <br>
 
