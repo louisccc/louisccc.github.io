@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+----
+* Ph.D in Electrical Engineering and Computer Engineering, the University of California, Irvine, 2023 (expected)
+* M.S. in Computer Science and Information Engineering, National Taiwan University, 2014
+* B.S. in Computer Science and Information Engineering, National Taiwan University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+----
+* **2018 Sep. -Present**: Research Assistant
+  * The University of California, Irvine
+  * Supervisor: [Professor Mohammad Al Faruque](https://aicps.eng.uci.edu/)
+* **2014 Nov. -2018 Sep.**: Software Engineer
+  * MediaTek, HsinChu, Taiwan
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2012 Sep. -2014 Jun.**: Research Assistant
+  * National Taiwan University
+  * Supervisor: [Professor Jane Yung-jen Hsu](https://iagentntu.github.io/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
+======
+* The A. Richard Newton Young Student Fellow Award at Design Automation Conference 2019 (DAC2019) (Mar. 2019)
+* vAwards awarded by Mediatek Inc. for 7 times (Oct/Nov/Dec 2015, Dec 2016, Jan/May/Nov/Dec 2017)
+* MEDES2014 Best Paper Award (Sept. 2014)
+* CMUSV Semester Final Showcase Best Demonstration Award (July 2012)
+* National Taiwan University Presidential Award (7/129) (Spring 2009)
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

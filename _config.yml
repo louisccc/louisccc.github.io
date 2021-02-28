@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shih-Yuan Yu / Louis Personal Website"
+title                    : "Shih-Yuan Yu / Louis"
 title_separator          : "-"
 name                     : &name "Shih-Yuan Yu"
 description              : &description "personal description"
