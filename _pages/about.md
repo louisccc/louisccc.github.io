@@ -22,7 +22,7 @@ Some highlighted projects that I am working on:
 ----
 
 ![Lab photo](/images/index.jpg)
-<figcaption>The group photo with my labmates of AICPS lab.</figcaption>
+<center><figcaption>The group photo with my labmates of AICPS lab.</figcaption></center>
 
 ----
 
@@ -34,4 +34,4 @@ While studying master in NTU, I worked on an IoT project, WuKong, a middleware c
 ----
 
 ![Lab photo](/images/iAgent_WuKong_reunion.jpg)
-<figcaption>The group photo with my labmates of iAgent lab.</figcaption>
+<center><figcaption>The group photo with my labmates of iAgent lab.</figcaption></center>
