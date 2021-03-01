@@ -15,6 +15,10 @@ My current research interest is in Design Automation of Embedded Systems, especi
 - **Research Project: [DCC](https://github.com/deepcurator/DCC): Deep Code Curator**
 - **Research Project: Sabotage Attack Detection for Additive Manufacturing Systems**
 
+To summarize, my interests lie on **Machine Learning on Graphs and Its Applications** and can be illustrated as follows.
+
+![Summary of My research](/images/summary-graph.png)
+
 ----
 
 ![Lab photo](/images/index.jpg)
