@@ -27,5 +27,7 @@ Autonomous vehicles (AVs) are expected to revolutionize transportation by reduci
 
 #### Research Direction 3: Grapn Neural Network Based Approaches for Hardware Security Applications
 
+![graph](/images/graph_hardware.png)
+
 For other on-going research directions, I will keep my potential readers posted once they are ready in publication. 
 {: .notice}
