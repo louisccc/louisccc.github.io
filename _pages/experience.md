@@ -28,12 +28,6 @@ Work experience
   * National Taiwan University
   * Supervisor: [Professor Jane Yung-jen Hsu](https://iagentntu.github.io/)
   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Awards
 ======
 * The A. Richard Newton Young Student Fellow Award at Design Automation Conference 2019 (DAC2019) (Mar. 2019)
