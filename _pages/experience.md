@@ -30,6 +30,9 @@ Work experience
 * **2012 Sep. -2014 Jun.**: Research Assistant
   * National Taiwan University
   * Supervisor: [Professor Jane Yung-jen Hsu](https://iagentntu.github.io/)
+
+![](/images/mediatek.png){: width="50%" height="50%"}
+![](/images/cmusv.png){: width="50%" height="50%"}
   
 Awards
 ======
