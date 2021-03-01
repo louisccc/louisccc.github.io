@@ -10,7 +10,7 @@ redirect_from:
 
 ---- 
 
-My current research interest is in Design Automation of Embedded Systems, especially the automation with data-driven system modeling approaches. It covers incorporating ML/AI methods to identify potential security issues in systems. For example, side-channel attack detection on additive manufacturing and hardware trojan detection in FPGAs are the ongoing projects in my lab, [UCI AICPS Lab](http://aicps.eng.uci.edu/). To summarize, my interests lie on **Machine Learning on Graphs and Its Applications** and can be illustrated as follows.
+I am currently working as a Graduate Student Reseracher (GSR) in the University of California, Irvine, expected to be graduating in 2023. Prior to this, I was working as a software engineer in MediaTek, a world-renown semiconductor company in Taiwan, for 4 years. My current research interests lie on **Machine Learning on Graphs and Its Applications** and can be illustrated as follows,
 
 ![Summary of My research](/images/summary-graph.png)
 
@@ -22,7 +22,7 @@ Some highlighted projects that I am working on:
 ----
 
 ![Lab photo](/images/index.jpg)
-<center><figcaption>The group photo with my labmates of AICPS lab.</figcaption></center>
+<center><figcaption>The group photo with my labmates of [UCI AICPS Lab](http://aicps.eng.uci.edu/).</figcaption></center>
 
 ----
 
