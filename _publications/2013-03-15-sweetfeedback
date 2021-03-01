@@ -1,0 +1,17 @@
+---
+title: 'Leveraging Persuasive Feedback Mechanism for Problem Solving'
+collection: publications
+permalink: /publication/2013-03-15-sweetfeedback
+excerpt: ''
+date: 2013-03-15
+venue: 'Shikakeology: Designing Triggers for Behavior Change: Papers from the 2013 AAAI Spring Symposium '
+paperurl: 'https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/download/5820/5998'
+citation: 'Huang, Yi-Ching, et al. "Leveraging persuasive feedback mechanism for problem solving." 2013 AAAI Spring Symposium Series. 2013.'
+---
+
+There are many problems around us need to be solved by human agents. It is very challenging to persuade people to change behavior implicitly, especially for solving public problems. We leverage persuasive mechanism for increasing incentives to change human behavior in a problem solving framework. By linking feedback to the actions, we've been able to increase the incentives to trigger behavior change.  We deploy two persuasive feedback system in a building to support energy-saving scenario. By integrating sound feedback to window closing behavior to make people aware of the energy problem in the public space.
+
+[Download paper here](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/download/5820/5998)
+
+Recommended citation: Huang, Yi-Ching, et al. "Leveraging persuasive feedback mechanism for problem solving." 2013 AAAI Spring Symposium Series. 2013.
+
