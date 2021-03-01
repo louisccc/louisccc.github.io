@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Please find my [CV]() here
+
+<!-- Education
 ======
 ----
 * Ph.D in Electrical Engineering and Computer Engineering, the University of California, Irvine, 2023 (expected)
@@ -42,7 +44,7 @@ Awards
 * MEDES2014 Best Paper Award (Sept. 2014)
 * CMUSV Semester Final Showcase Best Demonstration Award (July 2012)
 * National Taiwan University Presidential Award (7/129) (Spring 2009)
-
+-->
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
