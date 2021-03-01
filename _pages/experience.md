@@ -15,7 +15,7 @@ Education
 * B.S. in Computer Science and Information Engineering, National Taiwan University, 2012
 
 ![](/images/ntu.jpg){: width="50%" height="50%"}
-![](/images/uci-engineering.jpg){: width="50%" height="50%"}
+![](/images/uci-engineering.png){: width="50%" height="50%"}
 
 
 Work experience
