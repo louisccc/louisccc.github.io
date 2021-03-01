@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my [CV]() here
+Please find my [CV](/files/Shih_Yuan_Yu_Resume.pdf){: .btn} here
 
 <!-- Education
 ======
