@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 ----
-* **2018 Sep. -Present**: Research Assistant
+* **2018 Sep. -Present**: Graduate Student Researcher
   * The University of California, Irvine
   * Supervisor: [Professor Mohammad Al Faruque](https://aicps.eng.uci.edu/)
 * **2014 Nov. -2018 Sep.**: Software Engineer
