@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+---- 
+
 My current research interest is in Design Automation of Embedded Systems, especially the automation with data-driven system modeling approaches. It covers incorporating ML/AI methods to identify potential security issues in systems. For example, side-channel attack detection on additive manufacturing and hardware trojan detection in FPGAs are the ongoing projects in my lab, [UCI AICPS Lab](http://aicps.eng.uci.edu/). Some highlighted projects that I was working on:
 - **Open-Source Project: [Pykg2vec](https://github.com/Sujit-O/pykg2vec): Python Library for Knowledge Graph Embedding Methods**
 - **Research Project: [DCC](https://github.com/deepcurator/DCC): Deep Code Curator**
