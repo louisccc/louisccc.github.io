@@ -24,3 +24,5 @@ While studying master in NTU, I worked on an IoT project, WuKong, a middleware c
 #### - **Project: Sweet Building Greeter - A Demonstration of Persuasive Computing Design on Public Space**
 #### - **Project: Sweetfeedback - A desktop sensor/effector platform for Persuasive Computing [site](http://www.sweetfeedback.com/)**
 ----
+
+![Lab photo](/images/iAgent_WuKong_reunion.jpg)
