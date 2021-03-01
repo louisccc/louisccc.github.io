@@ -1,5 +1,5 @@
 ---
-permalink: /research
+permalink: /research/
 title: "Research Interests"
 excerpt: "About me"
 author_profile: true
