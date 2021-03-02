@@ -31,8 +31,8 @@ Work experience
   * National Taiwan University
   * Supervisor: [Professor Jane Yung-jen Hsu](https://iagentntu.github.io/)
 
-![](/images/mediatek.jpg){: width="50%" height="50%"}
-![](/images/cmusv.png){: width="50%" height="50%"}
+![](/images/mediatek.jpg){: width="45%" height="45%"}
+![](/images/cmusv.png){: width="45%" height="45%"}
   
 Awards
 ======
