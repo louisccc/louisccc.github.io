@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-My research interest lie on Machine Learning on Graphs and its Applications. Few directions that I am working on are listed as follows:
+My research interest lie on Machine Learning on Graphs for Embedded Software and Hardware. Graphs naturally exist in a wide range of real-world scenarios sucha as social graph in social media networks, user-interest graph in electronic commerce area. Unlike images, audios and texts which have a clear grid architecture, graphs are non-euclidean data that has irregular structures, making it hard to generalize some basica mathematical operations to graphs. As a result, how to utilize deep learning approaches for graph data has attracted a considerable research attention in the past few years. Few directions that I am working on are listed as follows:
 
 #### Research Direction 1: Modeling Scientific Papers with Knowledge Graph Embedding Methods
 
